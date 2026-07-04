@@ -10,14 +10,6 @@ I'm an engineering student from India currently building a strong foundation in 
 
 Rather than rushing through technologies, I prefer understanding **why something works before learning how to use it.** Most of my repositories document that journey—from programming fundamentals to backend systems through structured practice, mini-projects, and continuous refactoring.
 
-I don't measure progress by the number of technologies I've touched.
-
-I'd rather build a strong understanding of one concept than rush through ten.
-
-Every repository here reflects something I've genuinely learned, improved, or refactored—not just completed.
-
-I see GitHub as more than a place to upload code. It's a record of continuous learning.
-
 ---
 
 ## Current Tech Stack
